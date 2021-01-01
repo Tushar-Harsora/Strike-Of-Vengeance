@@ -1,0 +1,19 @@
+Muzzle						Done
+Tswappoint					Done
+Ui Design
+Stayfollow					Done
+Reload Animation
+Time for Change Round		Done
+Camera Clipping				Done
+HeadShot					Done
+Fix Teammate icons			Done
+Assets Hunter
+Door						Done
+Ask Player For Team 		Done
+Ammo for Emty Ammo
+Waypoints					Done
+Theme
+FriendlyFire				Done
+Loading Panel
+RoundOver					Done
+After My Death....
